@@ -1,8 +1,8 @@
 # SQL-Intro
 
-#####My First SQL project
+##### My First SQL project
 
-*Create database
-*Create table
-*Populate a database table
-*Update table
+* Create database
+* Create table
+* Populate a database table
+* Update table
